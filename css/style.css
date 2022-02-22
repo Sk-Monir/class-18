@@ -1,0 +1,36 @@
+.box1{
+    width:100px;
+    height:100px;
+    background:green;
+    display: inline-block;
+    margin:10px;
+
+}
+.box2{
+    width:100px;
+    height:100px;
+    background:red;
+    display: inline-block;
+    margin:10px;
+
+}
+.box3{
+    width:100px;
+    height:100px;
+    background:blue;
+    display: inline-block;
+    margin:10px;
+
+}
+button{
+	width:10% ;
+    height: 40px;
+    color:white;
+    background:black;
+    border: 2px solid tomato; 
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+
